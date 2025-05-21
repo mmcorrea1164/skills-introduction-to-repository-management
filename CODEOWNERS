@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mmcorrea1164
+/src/backend/database.py      @mmcorrea1164
+/src/backend/routers/auth.py  @mmcorrea1164
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mmcorrea1164
